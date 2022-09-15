@@ -1,0 +1,17 @@
+.app{height: max-content;
+background: url('./assets/hero-bg.png');
+font-family: 'Oxanium', cursive;
+}
+
+.background{
+  background: url('./assets/newsletter-box.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+
+.back{background: url('./assets/hero-bg.png');
+font-family: 'Oxanium', cursive;
+}
+
+.open{background-color: green;}
