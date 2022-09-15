@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.39cd1fb7.css",
-    "main.js": "/static/js/main.8604888e.js",
-    "static/media/hero-img.png": "/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
-    "static/media/second (2).png": "/static/media/second (2).cf233659a120d86cd676.png",
-    "static/media/second (1).png": "/static/media/second (1).5df40cff033a1a81e9d1.png",
-    "static/media/why-img.png": "/static/media/why-img.83f7e1610dd390441337.png",
-    "static/media/first.png": "/static/media/first.3ebec6b2c18fd2e8cb8f.png",
-    "static/media/hero-bg.png": "/static/media/hero-bg.2ef7ab32934e7cab966a.png",
-    "static/media/newsletter-box.png": "/static/media/newsletter-box.dd5db68847295ec1ef17.png",
-    "index.html": "/index.html",
-    "main.39cd1fb7.css.map": "/static/css/main.39cd1fb7.css.map",
-    "main.8604888e.js.map": "/static/js/main.8604888e.js.map"
+    "main.css": "/cryptochappo/static/css/main.04ab8c78.css",
+    "main.js": "/cryptochappo/static/js/main.f1d6ce44.js",
+    "static/media/hero-img.png": "/cryptochappo/static/media/hero-img.bc2cc512f513aaa9f0bf.png",
+    "static/media/second (2).png": "/cryptochappo/static/media/second (2).cf233659a120d86cd676.png",
+    "static/media/second (1).png": "/cryptochappo/static/media/second (1).5df40cff033a1a81e9d1.png",
+    "static/media/why-img.png": "/cryptochappo/static/media/why-img.83f7e1610dd390441337.png",
+    "static/media/first.png": "/cryptochappo/static/media/first.3ebec6b2c18fd2e8cb8f.png",
+    "static/media/hero-bg.png": "/cryptochappo/static/media/hero-bg.2ef7ab32934e7cab966a.png",
+    "static/media/newsletter-box.png": "/cryptochappo/static/media/newsletter-box.dd5db68847295ec1ef17.png",
+    "index.html": "/cryptochappo/index.html",
+    "main.04ab8c78.css.map": "/cryptochappo/static/css/main.04ab8c78.css.map",
+    "main.f1d6ce44.js.map": "/cryptochappo/static/js/main.f1d6ce44.js.map"
   },
   "entrypoints": [
-    "static/css/main.39cd1fb7.css",
-    "static/js/main.8604888e.js"
+    "static/css/main.04ab8c78.css",
+    "static/js/main.f1d6ce44.js"
   ]
 }
